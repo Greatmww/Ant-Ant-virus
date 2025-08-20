@@ -4,6 +4,7 @@ a simple opensource python antivirus that checks GPU and CPU strain that the app
 **WARNING**
 
 *the anti-virus is not very powerful, it can sometimes miss some viruses!*
+
 *This anti-virus is made for educational pursoses and not for real security*
 
 **Recommended**
@@ -37,5 +38,7 @@ Ant Anti-virus
 
 *LICENSE GNU 3.0v Official*
 *This anti-virus is made for educational pursoses and not for real security*
+
 *Before testing it, better download the viruses inside a virtual machine*
+
 *this is not a sponsor but i recommend to use* [Oracle Virtual Machine](https://www.oracle.com/de/virtualization/technologies/vm/downloads/virtualbox-downloads.html)
